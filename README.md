@@ -28,5 +28,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## [Visual Studio Code](https://code.visualstudio.com/)
+
+### Extensions (Ctrl+Shift+X)
+[Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
+
+[ES7 React/Redux/React-Native/JS snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
+
+[Prettier Code Formatter](https://github.com/prettier/prettier-vscode.git)
+
+[React Native Tools](https://github.com/Microsoft/vscode-react-native)
+
+[Remote WSL](https://github.com/Microsoft/vscode-remote-release.git)
+
+[REST Client](https://github.com/Huachao/vscode-restclient.git)
 
 
