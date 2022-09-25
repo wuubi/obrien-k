@@ -10,7 +10,7 @@
 
 💬 Ask me about GraphQL, Apollo GraphQL, BigCommerce, Node.JS
 
-🐤 How to reach me: <a href="https://twitter.com/kyle_o">@kyle_o</a>, <a href="kyle@kyleo.io">email</a>
+🐤 How to reach me: <a href="https://twitter.com/kyle_o">@kyle_o</a>, <a href="mailto:kyle@kyleo.io">email</a>
 
 😄 Pronouns: they/them/their
 <!--
