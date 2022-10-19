@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## [Visual Studio Code](https://code.visualstudio.com/)
 
-### Extensions (Ctrl+Shift+X)
+### Extensions ( [⌘ or Ctrl] + Shift + X in VS Code)
 [Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 
 [ES7 React/Redux/React-Native/JS snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
