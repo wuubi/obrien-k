@@ -1,14 +1,12 @@
 ### Hey there 👋
 
-
-
-🌐 <a href="https://kyleo.io">kyleo.io</a>
+🌐 <a href="https://kyleo.io">kyleo.io</a> || <a href="https://korin.media">🪗</a>
 
 💬 Ask me about GraphQL, Apollo GraphQL, BigCommerce, Node.JS
 
 🐤 How to reach me: <a href="https://twitter.com/kyle_o">@kyle_o</a>, <a href="mailto:kyle@kyleo.io">email</a>
 
-😄 Pronouns: they/them/their
+😄 Pronouns<a href="https://korin.rip">:</a> they/them/their
 <!--
 **obrien-k/obrien-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [Visual Studio Code](https://code.visualstudio.com/)
+## My Projects
 
-### Extensions ( [⌘ or Ctrl] + Shift + X in VS Code )
+### [Stellar](https://github.com/orphic-inc/stellar-api)
+
+### [Code Noobs](https://cn.korin.wiki)
+
+## Noter
+
+### [Visual Studio Code](https://code.visualstudio.com/)
+
+#### Extensions ( [⌘ or Ctrl] + Shift + X in VS Code )
 [Bracket Pair Colorizer 2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2)
 
 [ES7 React/Redux/React-Native/JS snippets](https://github.com/dsznajder/vscode-es7-javascript-react-snippets)
