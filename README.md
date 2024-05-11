@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-🌐 <a href="https://kyleo.io">kyleo.io</a> || <a href="https://korin.media">🪗</a>
+🌐 <a href="https://kyleo.io">kyleo.io</a> || <a href="https://korin.media">🪗</a> || <a href="https://korin.wiki">Wiki</a>
 
 💬 Ask me about GraphQL, Apollo GraphQL, BigCommerce, Node.JS
 
